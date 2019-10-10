@@ -4,4 +4,4 @@ def parrot()
 
 end
 
-parrot (squawk)
+parrot ("squawk")
